@@ -50,7 +50,7 @@ This approach replaces multiple `useState` hooks and provides a more scalable an
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/AyaHusein2001/world-wise](https://github.com/AyaHusein2001/world-wise.git)
+   git clone https://github.com/AyaHusein2001/world-wise.git
    ````
 
 2. Install dependencies:
