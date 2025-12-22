@@ -62,7 +62,7 @@ This approach replaces multiple `useState` hooks and provides a more scalable an
 3. Run the app:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 ---
